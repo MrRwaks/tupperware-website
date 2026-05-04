@@ -1,0 +1,26 @@
+header{background-color: rgb(6, 214, 247);
+text-align: center;}
+body{ font-family:  caligraphy, sans-serif;
+background-color: rgb(129, 10, 232);
+text-align: justify;
+color: black;}
+h1{text-align: center;
+color: white;}
+p.lead{color: white;}
+h2{text-align: center;}
+    h3{text-align: center;}
+    footer{color: rgb(255, 255, 255);}
+section{margin-bottom: 20px;
+padding: 10px;
+border: 2px solid rgb(248, 244, 247);
+border-radius: 10px;
+background-color: rgb(193, 233, 247);
+}
+.small-img{width:750px;height:auto;border-radius:8px;display:block;margin:.75rem auto;}
+video{display:block;margin:1rem auto;border-radius:8px;width:750px;height:auto;}
+form{text-align: left;margin-top: 20px;
+padding: 10px;
+border: 2px solid rgb(248, 244, 247);
+border-radius: 10px;
+background-color: rgb(193, 233, 247);
+}
